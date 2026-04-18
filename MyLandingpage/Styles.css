@@ -72,3 +72,6 @@ body {
     min-height: 100vh;
     font-family: Arial, Arial, Helvetica, sans-serif
 }
+.social-media a:hover{
+    color:cyan;
+}
